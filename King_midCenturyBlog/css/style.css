@@ -1,0 +1,99 @@
+/* remember that style sheets cascade, so whatever is on the bottom will override whats on top. Don't have multiple statements for the same element. Organization and hierarchy are key, start with larger elements and work your way down.
+
+Do they best you can with this, talk with each other and help each other. Most colors and fonts are provided for you. Use adobe color to find the other colors from the sample image.*/
+
+nav a {
+    color: #047f8c;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+nav {
+    word-spacing: 100px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+header div h1 a {
+    text-transform: uppercase;
+    color: #3A400C;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 37px;
+    font-weight: 600;
+}
+
+header {
+    text-align: center;
+}
+
+div section article h3 {
+    color: #047f8c;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+div section article h2 {
+    font-family: "Lato", sans-serif;
+    font-size: 22.5px;
+    font-weight: 700;
+}
+
+div section article p {
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+aside h3 {
+    font-family: "Josefin Sans", sans-serif;
+    color: #047f8c;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+aside p {
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+aside ul {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+li {
+    color: #3A400C;
+}
+
+a {
+    text-decoration: none;
+}
+
+aside ul {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+footer div a {
+text-transform: uppercase;
+}
+
+footer {
+    background-color: #04ADBF;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    height: 100px;
+    text-align: center;
+}
+
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #d0e4ef;
+}
